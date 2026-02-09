@@ -32,7 +32,7 @@ voltstore-db/
 ├── README.md
 ├── .gitignore
 ├── docs/
-│ └── er_diagram.png
+│ └── Диаграммма.png
 └── sql/
 ├── 01_ddl.sql — таблицы, индексы, триггер
 ├── 02_seed.sql — генерация тестовых данных
