@@ -87,7 +87,7 @@ psql -U voltstore -d voltstore -f sql/04_procedures.sql
     ├── README.md
     ├── .gitignore
     ├── docs/
-    │   └── er_diagram.png
+    │   └── Диаграмма.png
     └── sql/
         ├── 01_ddl.sql           — таблицы, индексы, триггер
         ├── 02_seed.sql          — генерация тестовых данных
